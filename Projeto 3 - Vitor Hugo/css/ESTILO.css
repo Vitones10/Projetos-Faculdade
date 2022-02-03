@@ -1,0 +1,44 @@
+ul li{
+	padding:0px;
+    margin:0px;
+    list-style:none;
+	display: inline;
+	border-bottom: 6px solid yellow;
+    background-color: lightgrey;
+	margin-left: 40px;
+	font-size:30px
+	}
+	
+	body {
+		background-image: url(../imagens/fundo.jpg)
+	}
+
+	h1 {text-align: center;
+		color: White
+	}
+	
+	p  {text-align: center;
+	color: yellow
+		
+	}
+	
+	h3  {text-align: center;
+	color: white
+		
+	}
+	
+	h2 {text-align: center;
+	color: white
+		
+	}
+	
+	img { width:446px;
+	height: 595px
+		
+	}
+	
+	im2{
+		background-image: url(../imagens/HIMYM.jpg);
+		width: 400px;
+		height: 200px;
+	}

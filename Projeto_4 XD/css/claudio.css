@@ -1,0 +1,68 @@
+body {
+	background-image: url(../imagens/fundo.jpg);
+}
+
+
+#topo 
+			{background-color: white;
+			border: 10px solid green;
+			width: 600px;
+			height: 600px;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-left: 10px;
+	padding: 5px 15px 5px 10px;
+	color: black;
+	background-position: center
+			}
+
+.Esporte {
+width: 300px;
+color: green;
+margin: 0 auto;
+padding: 15px;
+border: 0 auto
+
+}
+
+img {width: 600px;
+height: 300px
+}
+
+#down {background-color: white;
+			border: 10px solid red;
+			width: 600px;
+			height: 600px;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-left: 10px;
+	padding: 5px 15px 5px 10px;
+	color: black;
+}
+	
+.Urgentes {width: 300px;
+color: red;
+margin: 0 auto;
+padding: 15px;
+border: 0 auto
+}
+
+#left {background-color: white;
+			border: 10px solid orange;
+			width: 650px;
+			height: 650px;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-left: 10px;
+	padding: 5px 15px 5px 10px;
+	color: black;
+}
+
+.Entertenimento {width: 300px;
+color: orange;
+margin: 0 auto;
+padding: 15px;
+border: 0 auto
+}
+
+

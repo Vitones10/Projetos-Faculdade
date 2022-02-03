@@ -1,0 +1,65 @@
+html,body {
+    margin: 0;
+    height: 100%;
+    font-family: 'Chicle', cursive;
+     
+}
+
+#Topo {
+    background-color: red;
+    height: 80px;
+    /*height é altura*/
+    font-family: 'Chicle', cursive;
+    font-size: 42px;
+    color: #003432;
+    text-align: center;
+    z-index: 1000;
+    box-shadow: 10px 10px 5px rgba(0,0,0,0.5);
+    position: absolute;
+    width: 100%;
+    top: 0
+    
+    
+}
+
+#menu {
+    background-color: #FFF5AA;
+    float: left;
+    min-height: 100%;
+    padding: 10px
+  
+    
+}
+
+#conteudo {
+    background-color: yellow;
+    overflow: hidden;
+    margin-top: 80px;
+    min-height: calc(100% +20px);
+        
+}
+
+#rodape {
+    background-color: blue;
+    height: 100px
+}
+
+#menu ul {
+    
+border: 1px solid red;
+padding: 0
+    
+}
+
+#menu ul li {
+    border: 1px dotted yellow ;
+    list-style: none;
+    padding: 5px;
+    color: white
+  
+}
+
+#menu ul li:hover {
+    background-color: #000;
+    color: yellow
+}

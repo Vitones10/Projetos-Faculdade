@@ -1,0 +1,33 @@
+body  {
+	background-image: url(../imagens/morangos.jpg) 
+
+}
+#topo {
+	background-color: white;
+	border: 1px solid #000 
+}
+
+#cardápio {
+	width: 800px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	min-height: 500px;
+	padding: 5px 15px 5px 15px
+}
+
+.salada{
+	color: #339933;
+	font-family:"Arial";
+}
+
+.PQ{
+	color: #542114;
+	font-family: "Calibri"
+}
+
+.sobremesa{
+	color:#248765;
+	font-family: "Arial Narrow"
+}
